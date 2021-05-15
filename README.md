@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Amirreza Fateh
-- 📫 How to reach me amirrezafateh75@gmail.com
+I’m Amirreza Fateh
+Email: amirrezafateh75@gmail.com
 
 <!---
 amirreza-fateh/amirreza-fateh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
